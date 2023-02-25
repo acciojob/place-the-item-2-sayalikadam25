@@ -1,9 +1,9 @@
-.container{
+.holder{
 	display:flex;
 	flex-direction:row;
-	flex-wrap:row-wrap;
-	align-items:center;
-	height:500px;
+	flex-wrap:wrap;
+	justify-content:center;
+	height:200px;
 }
 .item{
 	padding:30px;
